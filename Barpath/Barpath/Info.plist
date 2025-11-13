@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Barpath needs camera access to record lift videos</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Barpath needs photo library access to import lift videos</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Barpath needs motion data to calibrate gravity and level</string>
+	<key>UILaunchScreen</key>
+	<dict/>
+</dict>
+</plist>
